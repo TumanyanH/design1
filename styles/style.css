@@ -1,0 +1,37 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+.content {
+  padding: 20px;
+  min-height: 100%;
+  margin: 0 auto -50px;
+}
+.push {
+  height: 200px;
+}
+
+.nav-border
+{
+	border-left: 1px solid grey;
+}
+
+.nav-border:hover
+{
+	color: white;
+}
+
+
+.image-logo
+{
+	padding: 0 10px 0 10px;
+}
+
+.navbar
+{
+	background-color: white;
+}
+img
+{
+	margin-left: 17%; 
+}
